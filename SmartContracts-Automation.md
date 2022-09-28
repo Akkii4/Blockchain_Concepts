@@ -1,4 +1,4 @@
-# Make your *Smart Contracts* even more smarter 😎 via **Automation** : 
+# Make your *Smart Contracts* even more smarter 😎 via Automation : 
 ## Triggers certain functions in the contract automatically.
 
 
@@ -27,15 +27,15 @@ So basically we want our smart contract to be triggered based on time (e.g. trig
 
 ### Popular Solutions :
 
-** 🥇 Gelato ** : Most easy to use but only major Drawback being Can’t edit task once created.
+🥇 **Gelato** : Most easy to use but only major Drawback being Can’t edit task once created.
 
-** 🥈 OpenZeppelin Defender ** : 
+🥈 **OpenZeppelin Defender** : 
 
 • Has Notification functionality 🔔
 • Supports multiple chains ⛓
 • Best in class private key management for security 🔒
 
-** 🥉 Chainlink Automation ** : They have "Keepers" that are externally owned accounts that are incentivised to trigger the execution of smart contracts based on predefined conditions .
+🥉 **Chainlink Automation** : They have "Keepers" that are externally owned accounts that are incentivised to trigger the execution of smart contracts based on predefined conditions .
 
 🟢 Advantages :
 • low-cost off-chain computation
