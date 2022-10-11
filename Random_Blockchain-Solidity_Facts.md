@@ -16,6 +16,10 @@ containing the compiled code of the smart contract without specifying any recipi
   
 5. EWASM (Ethereum Web Assembly Machine) : Is a proposed replacement for EVM as it aims for 
 faster computation (converts solidity code to bytecode faster) and also more High Level Support.
+
+6. Sending Ether or messages to addresses that doesn't exists : Ethereum cannot and does not validate 
+recipient addresses in a transaction. 
+Any 20-byte value is corresponds to an address w/wo private key,contract is considered valid.
 ```
 *Will write more whenever something interesting strikes*
 
