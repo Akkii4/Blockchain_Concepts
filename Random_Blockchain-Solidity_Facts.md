@@ -13,6 +13,9 @@ containing the compiled code of the smart contract without specifying any recipi
 4.Time Complexity in Solidity data types :
   - Mappings: Constant time search (Same amount of time despite number of elements)
   - Array: Linear time search (takes time depending on number of elements)
+  
+5. EWASM (Ethereum Web Assembly Machine) : Is a proposed replacement for EVM as it aims for 
+faster computation (converts solidity code to bytecode faster) and also more High Level Support.
 ```
 *Will write more whenever something interesting strikes*
 
