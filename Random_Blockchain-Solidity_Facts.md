@@ -20,6 +20,10 @@ faster computation (converts solidity code to bytecode faster) and also more Hig
 6. Sending Ether or messages to addresses that doesn't exists : Ethereum cannot and does not validate 
 recipient addresses in a transaction. 
 Any 20-byte value is corresponds to an address w/wo private key,contract is considered valid.
+
+7. Using the version pragma does not change the version of the compiler. It also does not enable or disable features of the compiler. 
+It just instructs the compiler to check whether its version matches the one required by the pragma. 
+If it does not match, the compiler issues an error.
 ```
 *Will write more whenever something interesting strikes*
 
