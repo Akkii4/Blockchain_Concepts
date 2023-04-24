@@ -22,9 +22,14 @@ This relies on a predefined set of trusted validators who have their identities 
 
 Validators must prove that they have allocated a certain amount of disk space to store data related to the network. It's more eco-friendly and accessible than PoW but more vulnerable to attacks and data loss. Examples include Chia, Filecoin, Arweave, and SIA.
 
+## 𝗣𝗿𝗼𝗼𝗳-𝗼𝗳-𝗪𝗲𝗶𝗴𝗵𝘁 (𝗣𝗼𝗪𝗲𝗶𝗴𝗵𝘁) ⚖️: 
+Validation process is delegated to a single or a few trusted entities. Very efficient and consistent, but sacrifices decentralization and censorship-resistance. 
+Example Algorand.
+
 ## Practical Byzantine Fault Tolerance (PBFT) ⚖️
 
-The validation process is delegated to a single or a few trusted entities. It's very efficient and consistent but sacrifices decentralization and censorship-resistance. Example: Algorand.
+Allows a network to reach consensus even if some nodes are faulty or malicious, very fast and reliable, but requires high coordination and communication. 
+Examples are Hyperledger Fabric and Ziliqa
 
 ## Proof-of-Elapsed-Time (PoET)⏳
 
