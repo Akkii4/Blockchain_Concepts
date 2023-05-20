@@ -8,4 +8,4 @@ To get started, simply browse the repository and select the markdown file that c
 
 ## Contributing
 
-Contributions are always welcone from anyone who is interested in helping us improve and expand this repository. If you have a new concept to add or would like to improve an existing one, please feel free to create a pull request.
+Contributions are always welcome from anyone who is interested in helping us improve and expand this repository. If you have a new concept to add or would like to improve an existing one, please feel free to create a pull request.
