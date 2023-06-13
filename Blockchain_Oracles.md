@@ -15,7 +15,8 @@ An intermediary responsible for gathering real world data & perform computation 
 ```
 ### Simple Example :
 ```
-Suppose a Betting App on Blockchain & you want to place bets on whether or not a team wins a ⚽️ sports match in real world. In order for app to declare results, it would need the data of the winning team.
+Consider a Betting App on Blockchain & you want to place bets on whether or not a team wins a ⚽️ sports match in real world. 
+In order for app to declare results, it would need the data of the winning team.
 ```
 
 ### 🙋‍♂️Why can't the blockchain just get the data or do the computation?
@@ -26,7 +27,7 @@ Suppose a Betting App on Blockchain & you want to place bets on whether or not a
 ```
 Having a single oracle, or a single data source completely defeats the purpose of security🔒, decentralisation.
 
-Instead the perfect solution of the Blockchain oracle problem is **Decentralized Oracle Network (DON)** , Chainlink being a popular example.
+Instead the perfect solution of the Blockchain oracle problem is Decentralized Oracle Network (DON) , Chainlink being a popular example.
 ```
 ### Chainlink Offers features like 👉
 ```
