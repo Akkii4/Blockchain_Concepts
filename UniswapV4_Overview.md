@@ -13,7 +13,9 @@ for e.g. since Uniswap v2, any ETH swaps require it to be first wrapped into an 
 ### 𝙎𝙤𝙢𝙚 𝙤𝙛 𝙩𝙝𝙚 𝙜𝙧𝙤𝙪𝙣𝙙 𝙗𝙧𝙚𝙖𝙠𝙞𝙣𝙜 𝙛𝙚𝙖𝙩𝙪𝙧𝙚𝙨 𝙞𝙩 𝙞𝙣𝙩𝙧𝙤𝙙𝙪𝙘𝙚𝙨 𝙬𝙞𝙩𝙝 𝙞𝙩, 𝙖𝙧𝙚 :
 #### 1️⃣ Hooks 
 ```
-The External contracts that allows the possiblity to deploy liquidity pools which supports endless customizable and flexible functionalities to these pools for e.g:
+The External contracts that allows the possiblity to deploy liquidity pools,
+which supports endless customizable and flexible functionalities to these pools for e.g:
+
 • A time-weighted average market maker (TWAMM)
 • Dynamic managing fees based on volatility or other inputs
 • Onchain limit orders
