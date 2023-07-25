@@ -49,6 +49,8 @@ which does all calculations off-chain without need to broadcast a transaction to
 as long as they are called externally and not from another contract or anonther state changing function.
 
 13. Ethereum's Block Gas limit is of 30 million gas as of 2023.
+
+14. There's no difference between an internal function and a private function remains once the contract is compiled.
 ```
 
 _New points are added whenever something interesting strikes_
